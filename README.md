@@ -1,5 +1,5 @@
-# 💫 Hey, I'm Abhinav
-An enthusiastic and adaptable individual with a deep passion for learning and innovation. My flexible<br> mindset, combined with a strong work ethic, allows me to thrive in dynamic environments. With hands-on<br> experience in machine learning, web development, and AI-driven solutions, I am committed to delivering<br> high-quality workwhilecontinuouslyexpandingmytechnicalexpertise. Mydedicationtoproblemsolving,<br> teamwork, and self-improvement makes me an asset in any project or collaborative endeavor.
+#            Hey, I'm Abhinav
+Btech CSE IIIrd year student
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=AbhinavKaintura&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
