@@ -2,7 +2,7 @@
 An enthusiastic and adaptable individual with a deep passion for learning and innovation. My flexible<br> mindset, combined with a strong work ethic, allows me to thrive in dynamic environments. With hands-on<br> experience in machine learning, web development, and AI-driven solutions, I am committed to delivering<br> high-quality workwhilecontinuouslyexpandingmytechnicalexpertise. Mydedicationtoproblemsolving,<br> teamwork, and self-improvement makes me an asset in any project or collaborative endeavor.
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AbhinavKaintura&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=AbhinavKaintura&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhinavKaintura&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavKaintura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
